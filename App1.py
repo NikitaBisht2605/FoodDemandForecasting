@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import plotly.figure_factory as ff
 import matplotlib.pyplot as plt
+import scipy
 
 st.title('Food Demand Forecasting')
 
